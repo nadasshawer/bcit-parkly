@@ -17,37 +17,41 @@
   <tr style="border: none;">
     <td align="center" style="border-bottom: 1px solid #333; border-right: 1px solid #333; padding: 20px; width: 50%;">
       <b>Account Registration Page</b><br><br>
-      <img src="https://github.com/user-attachments/assets/e0653881-46b5-4e68-a531-8f9d855b2c63" width="400"><br><br>
+      <img width="500" height="500" src="https://github.com/user-attachments/assets/e0653881-46b5-4e68-a531-8f9d855b2c63" width="400"><br><br>
     </td>
     <td align="center" style="border-bottom: 1px solid #333; padding: 20px; width: 50%;">
       <b>Sign In Authentication</b><br><br>
-      <img src="https://github.com/user-attachments/assets/d4f1eead-f724-4074-baa7-50a000f02995" width="400"><br><br>
+      <img width="500" height="500" src="https://github.com/user-attachments/assets/d4f1eead-f724-4074-baa7-50a000f02995" width="400"><br><br>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border-bottom: 1px solid #333; border-right: 1px solid #333; padding: 20px;">
       <b>Main Interactive Map Dashboard</b><br><br>
-      <img src="https://github.com/user-attachments/assets/9f50ab9d-63b0-48ab-a310-f819d100a48d" width="400"><br><br>
+      <img width="500" height="300" src="https://github.com/user-attachments/assets/9f50ab9d-63b0-48ab-a310-f819d100a48d" width="400"><br><br>
     </td>
     <td align="center" style="border-bottom: 1px solid #333; padding: 20px;">
       <b>Parking Lot "Details" Side Panel</b><br><br>
-      <img src="https://github.com/user-attachments/assets/75692df7-0e4f-4547-a200-9871e170f402" width="400"><br><br>
+      <img width="500" height="300" src="https://github.com/user-attachments/assets/75692df7-0e4f-4547-a200-9871e170f402" width="400"><br><br>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border-bottom: 1px solid #333; border-right: 1px solid #333; padding: 20px;">
       <b>Permit Specifications & Rate Schedules</b><br><br>
-      <img src="https://github.com/user-attachments/assets/8a704bfa-62ea-4e34-a2c1-8c7512aba8e5" width="400"><br><br>
+      <img width="500" height="500" src="https://github.com/user-attachments/assets/8a704bfa-62ea-4e34-a2c1-8c7512aba8e5" width="400"><br><br>
     </td>
     <td align="center" style="border-bottom: 1px solid #333; padding: 20px;">
       <b>My Active Reservations Portal (User Signed In)</b><br><br>
-      <img src="https://github.com/user-attachments/assets/6cace417-b4a1-4570-ae21-716ba8b93f3c" width="400"><br><br>
+      <img width="500" height="300" src="https://github.com/user-attachments/assets/6cace417-b4a1-4570-ae21-716ba8b93f3c" width="400"><br><br>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border-right: 1px solid #333; padding: 20px;">
       <b>Help & Support Knowledgebase</b><br><br>
-      <img src="https://github.com/user-attachments/assets/7a7b82c8-6c1b-4efc-a5fe-c1a1c1cf73e6" width="400"><br><br>
+      <img width="500" height="500" src="https://github.com/user-attachments/assets/7a7b82c8-6c1b-4efc-a5fe-c1a1c1cf73e6" width="400"><br><br>
+    </td>
+    <td align="center" style="border-right: 1px solid #333; padding: 20px;">
+      <b>Database Schema</b><br><br>
+      <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/25173d0f-5e54-465a-a864-12dc18ab0acf" />
     </td>
   </tr>
 </table>
