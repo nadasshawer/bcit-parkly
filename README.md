@@ -1,4 +1,11 @@
-# 🚗 BCIT Parkly: Find Parking at BCIT Downtown Campus
+# 🚗 Parkly: Find Parking at BCIT Downtown Campus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Type-Web%20App-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Express-9d4edd?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-2a9d8f?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 **BCIT Parkly** is a CRUD web application project built to help students, staff, and visitors easily find and manage parking options at and around the BCIT Downtown Campus. It features an interactive map layout that tracks parking spot availability, shows live spot details, and handles simple spot reservations.
 
@@ -47,7 +54,32 @@
 
 ---
 
-## 🛠️ Key Features
+## 🛠️ Tech Stack & Core Libraries
+
+**Core Framework & Language**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-Strict-3178c6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-v18+-339933?style=flat-square" />
+  <img src="https://img.shields.io/badge/Express-MVC-000000?style=flat-square" />
+</p>
+
+**UI & Interactive Elements**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Maps-API-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Street_View-Static-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/EJS-Templates-b4ca65?style=flat-square" />
+</p>
+
+**Data & Security**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lucia-Auth-5f57ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dotenv-Credentials-00b4d8?style=flat-square" />
+</p>
+
+---
+
+## ✨ Key Features
 
 ### 1. Interactive Map & Sidebar Synchronization
 
@@ -138,13 +170,14 @@ The application is structured into clear, separate code layers to make code trou
 bcit-parkly/
 ├── .github/                # YAML files for GutHub workflows
 ├── database/               # Database initialization scripts and migrations
+│
 ├── public/                 # Static assets served directly to the browser
 │   ├── assets/             # Map markers, branding assets, and campus logos
 │   ├── css/                # Page styles
 │   └── js/
 │       ├── details.js      # Compiled side-panel controller script
 │       ├── details.ts
-│       ├── map.js          # Compiled side-panel controller script
+│       ├── map.js          # Compiled Google map script
 │       └── map.ts       
 │
 ├── src/                    # Main TypeScript source development directory
@@ -176,8 +209,8 @@ bcit-parkly/
 1. **Clone and setup dependencies:**
 
 ```bash
-git clone https://github.com/Leo-Mak13/BCIT-Parkly
-cd BCIT-Parkly
+git clone https://github.com/nadasshawer/bcit-parkly
+cd bcit-parkly
 npm install
 
 ```
