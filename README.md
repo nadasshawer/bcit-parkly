@@ -135,16 +135,17 @@ The application is structured into clear, separate code layers to make code trou
 ## 📁 Project Layout
 
 ```txt
-BCIT-Parkly/
-├── .github/                # GitHub workflows and automation actions
+bcit-parkly/
+├── .github/                # YAML files for GutHub workflows
 ├── database/               # Database initialization scripts and migrations
 ├── public/                 # Static assets served directly to the browser
 │   ├── assets/             # Map markers, branding assets, and campus logos
-│   ├── css/
-│   │   └── main.css        # Layouts, slide animations, and side-panel styles
+│   ├── css/                # Page styles
 │   └── js/
 │       ├── details.js      # Compiled side-panel controller script
-│       └── map.js          # Compiled Google Maps rendering module
+│       ├── details.ts
+│       ├── map.js          # Compiled side-panel controller script
+│       └── map.ts       
 │
 ├── src/                    # Main TypeScript source development directory
 │   ├── controllers/        # Route controllers parsing requests and responses
@@ -159,11 +160,12 @@ BCIT-Parkly/
 ├── views/                  # Embedded JavaScript (EJS) server-side layouts
 │   └── main.ejs            # Main map dashboard template layout
 │
-├── .env                    # Protected local environment credentials config
-├── .gitignore              # Tracking rules configuration for repository security
 ├── database.ts             # Database layer pooling and connection initialization
-├── package.json            # Manifest file managing project scripts and dependencies
-└── README.md               # Documentation landing page
+├── .env                    
+├── .gitignore              
+├── tsconfig.json
+├── package.json            
+└── README.md               # You're here!
 
 ```
 
