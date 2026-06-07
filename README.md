@@ -9,7 +9,6 @@
 
 **BCIT Parkly** is a CRUD web application project MVP, developed in an agile approach, built to help students, staff, and visitors easily find and manage parking options at and around the BCIT Downtown Campus. It features an interactive map layout that tracks parking spot availability, shows live spot details, and handles simple spot reservations.
 
-**Contributors:** Nada, Leo, Shirley, Dylan, Neil
 
 ---
 
